@@ -1,2 +1,3 @@
-# tailwind-dark-light-theme-cubic.github.io
-Tailwind light dark theme 
+# compile tailwind command :-
+
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
